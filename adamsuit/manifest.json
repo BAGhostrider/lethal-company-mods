@@ -1,7 +1,7 @@
 {
     "name": "Adams_Suits",
     "version_number": "1.0.0",
-    "website_url":,
+    "website_url":"https://github.com/BAGhostrider/lethal-company-mods/tree/main/adamsuit",
     "description": "I made this for me and my friends",
     "dependencies": [
         "x753-More_Suits-1.4.1"
